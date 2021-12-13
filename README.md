@@ -14,3 +14,5 @@ This course focused on implementing the following various data structures:
 - Heaps
 - Graphs
 - Search
+
+This course also included using Java interfaces, inheritance, and iterable features.
