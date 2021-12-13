@@ -1,4 +1,4 @@
-# Data Structures
+# Programming w/ Data Structures (CS187 - Spring '20)
 
 This course focused on implementing the following various data structures:
 - Array
