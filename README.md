@@ -1,6 +1,6 @@
 # Programming w/ Data Structures (CS187 - Spring '20)
 
-This course focused on implementing the following various data structures:
+This couse included using Java interfaces, inheritance, and iterable features. The focus of this course was on implementing the following various data structures:
 - Array
 - LinkedList
 - Stacks
@@ -14,5 +14,3 @@ This course focused on implementing the following various data structures:
 - Heaps
 - Graphs
 - Search
-
-This course also included using Java interfaces, inheritance, and iterable features.
